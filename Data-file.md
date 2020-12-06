@@ -1,0 +1,1 @@
+A file called `obsidian_to_anki_data.json`. Current use is to store the filenames of added media, so that the script doesn't re-add images to Anki every time it's run (which takes a while).
