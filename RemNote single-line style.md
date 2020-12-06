@@ -1,0 +1,27 @@
+**Regex line:** `^(.*[^\n:]{1}):{2}([^\n:]{1}.*)`
+
+**Example usage:**
+1. Create a file called `test.md`
+2. Paste the following contents into the file:
+<pre>
+This is how to use::Remnote single-line style
+The script won't see things outside of it.
+You can have::multiple notes in the same file
+</pre>
+3. Run the script, and check 'Config' to open up the config file:  
+![GUI](Images/GUI_config.png)
+4. Navigate to the "Custom Regexps" section
+5. Change the line
+<pre>
+Basic =  
+</pre>
+to  
+<pre>
+Basic = ^(.*[^\n:]{1}):{2}([^\n:]{1}.*)
+</pre>
+6. Save the config file
+7. Run the script on the file, with 'Regex' checked:  
+![GUI](Images/GUI_regex.png)
+8. You should see these cards in Anki:  
+![remnote_1](Images/Remnote_1.png)  
+![remnote_2](Images/Remnote_2.png)
