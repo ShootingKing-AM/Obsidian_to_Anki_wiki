@@ -1,7 +1,6 @@
-New in v2.8.0  
 In any note, you can do clozes using Anki's standard syntax:  
 `This is a {{c1::cloze note}}`  
-However, by enabling the 'CurlyCloze' option (see [Config](#config)), you have access to many easier options:
+However, by enabling the 'CurlyCloze' option (see [[Config]]), you have access to many easier options:
 
 1. `This is a {cloze} note with {two clozes}`
 ->

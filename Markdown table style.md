@@ -1,8 +1,9 @@
-**Regex line:** `\|([^\n|]+)\|\n\|(?:[^\n|]+)\|\n\|([^\n|]+)\|\n?`
+**[[Regex]] line:** `\|([^\n|]+)\|\n\|(?:[^\n|]+)\|\n\|([^\n|]+)\|\n?`
 
 **Example usage:**
 1. Create a file called `test.md`.
 2. Paste the following contents into the file:
+
 <pre>
 | How do you use this style? |
 | ---- |

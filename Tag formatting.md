@@ -22,9 +22,11 @@ Hence, this syntax **would not work**:
 Tags:Tag1 Tag2 Tag3
 </pre>
 
+The above section only applies to regular notes - see [[Inline notes]] and [[Regex]] for respective information on those note types.
+
 # Per-file basis
 
-v1.1.1 now allows you to specify 'file tags' for a file - these tags will be added to every card in the file.
+These tags will be added to every card in the file.
 
 To do this:
 Anywhere within the file, format the file tags as follows:

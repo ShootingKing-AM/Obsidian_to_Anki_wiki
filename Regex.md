@@ -9,10 +9,6 @@ This page lists templates for custom syntax. In each case, copy-paste the regex 
 * [[Markdown table style]]
 * [[Cloze Paragraph style]]
 
-- [Custom styles?](#custom-styles)
-- [Tagging notes](#tagging-notes)
-- [Deleting notes](#deleting-notes)
-
 
 ## Custom styles
 The above styles are but a few examples of the endless possible styles you can make using regular expressions.

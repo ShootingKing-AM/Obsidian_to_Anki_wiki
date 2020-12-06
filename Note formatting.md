@@ -9,7 +9,18 @@ Tags:
 END
 </pre>
 
-To see how to format the Note Fields section, see [[Field formatting]]
+As an example:
+
+<pre>
+START
+Basic
+This is a test.
+Back: Test successful!
+Tags: Testing
+END
+</pre>
+
+See [[Field formatting]] and [[Tag formatting]] for more information.
 
 # Markup
 
@@ -17,4 +28,3 @@ To see how to format the Note Fields section, see [[Field formatting]]
 - [[Math formatting]]
 - [[Image formatting]]
 - [[Audio formatting]]
-- [[Tag formatting]]

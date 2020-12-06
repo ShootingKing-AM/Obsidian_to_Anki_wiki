@@ -1,8 +1,9 @@
-**Regex line:** `^(.*[^\n:]{1}):{2}([^\n:]{1}.*)`
+**[[Regex]] line:** `^(.*[^\n:]{1}):{2}([^\n:]{1}.*)`
 
 **Example usage:**
 1. Create a file called `test.md`
 2. Paste the following contents into the file:
+
 <pre>
 This is how to use::Remnote single-line style
 The script won't see things outside of it.

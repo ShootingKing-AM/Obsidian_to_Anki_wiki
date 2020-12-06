@@ -1,8 +1,9 @@
-**Regex line:** `^Q: ((?:[^\n][\n]?)+)\n+A: ((?:[^\n][\n]?)+)`
+**[[Regex]] line:** `^Q: ((?:[^\n][\n]?)+)\n+A: ((?:[^\n][\n]?)+)`
 
 **Example usage:**
 1. Create a file called `test.md`
 2. Paste the following contents into the file:
+
 <pre>
 Q: How do you use this style?
 A: Just like this.

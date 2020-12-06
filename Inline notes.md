@@ -1,5 +1,4 @@
-*v1.2 feature*
-v1.2 of the script introduces **inline notes** - notes which are entirely on a single line. They are formatted as such:  
+These are formatted as such:  
 <pre>
 STARTI [{Note Type}] {Note Data} ENDI
 </pre>

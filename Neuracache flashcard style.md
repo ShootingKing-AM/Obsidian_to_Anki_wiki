@@ -1,8 +1,9 @@
-**Regex line:** `((?:[^\n][\n]?)+) #flashcard\n+((?:[^\n][\n]?)+)`
+**[[Regex]] line:** `((?:[^\n][\n]?)+) #flashcard\n+((?:[^\n][\n]?)+)`
 
 **Example usage:**
 1. Create a file called `test.md`
 2. Paste the following contents into the file:
+
 <pre>
 In Neuracache style, to make a flashcard you do #flashcard
 The next lines then become the back of the flashcard
