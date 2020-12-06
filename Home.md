@@ -23,6 +23,7 @@ You may also be interested in the [[History of script development]].
 * **Reading from all files in a directory automatically** - recursively too!
 * **[[Inline notes]]** - Shorter syntax for typing out notes on a single line.
 * **[[Cloze formatting]]** - A more compact syntax to do Cloze text.
+* **[[Frozen Fields]]**
 * **[[Obsidian Integration]]** - Currently, this only includes a link to the file that made the flashcard, appended to the first field of your card.
 * **[[Regex]]** - Using **regular expressions**, add custom syntax to generate **notes that make sense for you.**. Note that **all custom syntax is off by default**, and must be programmed into the script via the config file - see [[Regex]] for instructions.
 
