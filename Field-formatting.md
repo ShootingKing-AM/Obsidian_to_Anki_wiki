@@ -8,6 +8,10 @@ Back: Test successful!
 END
 </pre>
 
+This produces the following card in Anki:
+
+![](Pasted%20image%2020201206185831.png)
+
 You can omit the prefix for the first field for convenience:
 
 <pre>
