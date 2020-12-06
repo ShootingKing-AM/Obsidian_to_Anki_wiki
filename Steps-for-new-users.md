@@ -10,5 +10,6 @@ If you are a **new user**, these steps are recommended:
  * [[Tag formatting]]
  * [[Cloze formatting]]
  * [[Usage]]
+ * [[Updating existing notes]]
  * [[Data file]]
 4. You should be good to go simply running the script with the '[[Regex]]' option checked.
