@@ -1,5 +1,5 @@
 # Current features
-* **[[Note formatting|Custom Note Types]]** - You're not limited to the 6 built-in note types of Anki.
+* **[Custom Note Types](Note%20formatting)** - You're not limited to the 6 built-in note types of Anki.
 * **Updating notes from file** - When running the script on a file again, it'll automatically update existing notes in Anki, preserving scheduling information.
 * **[[Tag formatting|Tags]]**.
 * **Adding to user-specified [[Deck formatting|Decks]],** on a *per-file* basis.
