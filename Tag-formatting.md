@@ -30,13 +30,29 @@ These tags will be added to every card in the file.
 
 To do this:
 Anywhere within the file, format the file tags as follows:
+
 <pre>
 {File Tags Line}
 {Tag list}
 </pre>
+
+Or as:
+
+<pre>
+{File Tags Line}: {Tag list}
+</pre>
+
 For example, with the default settings:
+
 <pre>
 FILE TAGS
 Maths School Physics
 </pre>
+
+Or:
+
+<pre>
+FILE TAGS: Maths School Physics
+</pre>
+
 Like with tag-line formatting, you need a space between tags - however, do not include the "Tags: " prefix.
