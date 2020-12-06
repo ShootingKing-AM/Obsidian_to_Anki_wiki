@@ -27,8 +27,3 @@ Note that START, END, TARGET DECK, FILE TAGS and DELETE all require an **exact m
 * Target Deck Line - The string that signals "the line beneath me is the name of the target deck". Defaults to TARGET DECK.
 * File Tags Line - The string that signals "the line beneath me is the set of tags that should be added to all notes from this file". Defaults to FILE TAGS.
 * Delete Regex Note Line - The string that signals "the line beneath me is an id string for a regex note that should be deleted." Defaults to DELETE.
-
-# Added Media
-This section is reserved for the script to keep track of what media files it has added. You can clear this by running the script with the `-m` flag.
-
-In a future update, I'll move this out to a dedicated 'data' file.
