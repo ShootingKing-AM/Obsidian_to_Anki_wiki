@@ -3,6 +3,8 @@ If you are a **new user**, these steps are recommended:
 2. Check [Custom syntax](regex.md) to see if there is a template that works for you.
 3. Then, check the information on the following topics:
  * [[Config]]
+ * [[Note formatting]]
+ * [[Field formatting]]
  * [[Deck formatting]]
  * [[Markdown formatting]]
  * [[Image formatting]]
