@@ -1,18 +1,18 @@
 # Current features
-* **[Custom Note Types](Note%20formatting)** - You're not limited to the 6 built-in note types of Anki.
+* **[[Note formatting]] with custom note types** - You're not limited to the 6 built-in note types of Anki.
 * **Updating notes from file** - When running the script on a file again, it'll automatically update existing notes in Anki, preserving scheduling information.
-* **[[Tag formatting|Tags]]**.
-* **Adding to user-specified [[Deck formatting|Decks]],** on a *per-file* basis.
+* **[[Tag formatting]]**.
+* **[[Deck formatting]]** on a *per-file* basis.
 * **[[Markdown formatting]]**.
 * **[[Math formatting]]**.
-* **[[Image formatting|Images]]**.
-* **[[Audio formatting|Audio]]**
-* **[[Deleting notes|Auto-deleting notes]] from the file**.
+* **[[Image formatting]]**.
+* **[[Audio formatting]]**
+* **[[Deleting notes]] from the file**.
 * **Reading from all files in a directory automatically** - recursively too!
 * **[[Inline notes]]** - Shorter syntax for typing out notes on a single line.
-* **[[Cloze formatting|Easy Cloze formatting]]** - A more compact syntax to do Cloze text.
+* **[[Cloze formatting]]** - A more compact syntax to do Cloze text.
 * **[[Obsidian Integration]]** - Currently, this only includes a link to the file that made the flashcard, appended to the first field of your card.
-* **[[Regex|Custom Syntax]]** - Using **regular expressions**, add custom syntax to generate **notes that make sense for you.** Some examples:
+* **[[Regex]]** - Using **regular expressions**, add custom syntax to generate **notes that make sense for you.** Some examples:
   * [RemNote single-line style](regex.md#remnote-single-line-style). `This is how to use::Remnote single-line style`  
   ![Remnote 1](Images/Remnote_1.png)
   * [Header paragraph style](regex.md#header-paragraph-style).
