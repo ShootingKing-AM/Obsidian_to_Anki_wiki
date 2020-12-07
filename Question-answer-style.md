@@ -1,4 +1,4 @@
-**[[Regex]] line:** `^Q: ((?:[^\n][\n]?)+)\n+A: ((?:[^\n][\n]?)+)`
+**[[Regex]] line:** `^Q: ((?:.+\n)*)\n*A: ((?:.+\n)*)`
 
 **Example usage:**
 1. Create a file called `test.md`
