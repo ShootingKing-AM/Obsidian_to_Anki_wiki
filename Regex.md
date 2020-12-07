@@ -19,7 +19,7 @@ If you want to make your own style, however, you should know these things:
 If you'd like for your style to be added to this page, make a style-request issue and I'll consider it. 
 
 ## Tagging notes
-Cards made using this format support tags - simply append a "Tags: {tag_list}" to the end of your block. Note that this should be on the same line as the block, not on a new line (as that is reserved for the ID)
+Cards made using this format support tags - simply append a "Tags: {tag_list}" to the end of your block. The guidance is to use same line for single-line regexps, and the following line for paragraph regexps. If you're having problems, do consider whether FILE TAGS would be easier!
 
 ## Deleting notes
 To delete notes made using this format, remove the content before the ID and make it look like:
