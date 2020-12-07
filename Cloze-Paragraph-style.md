@@ -1,4 +1,4 @@
-**[[Regex]] line:** `(.*{.*\n?)`
+**[[Regex]] line:** `((?:.+\n)*(?:.*{.*\n?)(?:.+\n)*)`
 
 **Example usage:**
 1. Create a file called `test.md`.
