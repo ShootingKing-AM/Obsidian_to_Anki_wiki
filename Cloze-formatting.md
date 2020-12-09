@@ -22,3 +22,7 @@ You can also mix and match styles! Note that clozes without an id will always be
 `This is a {cloze} note with {multiple} non-id clozes, as well as {2:some clozes} with {c1|other styles}`
 ->
 `This is a {{c1::cloze}} note with {{c2::multiple}} non-id clozes, as well as {{c2::some clozes}} with {{c1::other styles}}`
+
+The 'CurlyCloze' option will apply to any note type that has "Cloze" in the name - for example, "Cloze" itself, as well as something like "Cloze Hide All". So you don't have to worry about having {curly braces} in a Basic note type!
+
+Also do not worry about having curly braces inside a math expression or a code expression - the script has been configured to specifically ignore those.
