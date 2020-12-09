@@ -9,5 +9,5 @@ For example, for a note with identifier "123456789", and default settings:
 
 <pre>
 DELETE
-<!--ID: 123456789-->
+ID: 123456789
 </pre>
