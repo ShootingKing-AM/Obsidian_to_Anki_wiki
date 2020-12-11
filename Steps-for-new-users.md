@@ -1,6 +1,6 @@
 If you are a **new user**, these steps are recommended:
 1. Check [[Setup]] for instructions to install the script.
-2. Check [Custom syntax](regex.md) to see if there is a template that works for you.
+2. Check [[Regex]] to see if there is a template that works for you.
 3. Then, check the information on the following topics:
  * [[Config]]
  * [[Note formatting]]
