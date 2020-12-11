@@ -14,4 +14,4 @@ If you are a **new user**, these steps are recommended:
  * [[Usage]]
  * [[Updating existing notes]]
  * [[Data file]]
-4. You should be good to go simply running the script with the '[[Regex]]' option checked.
+4. You should be good to go simply running the script/plugin with the '[[Regex]]' option checked.
