@@ -1,6 +1,6 @@
 # Generic notes
 
-In the markdown file, you must format your 'block' notes as follows (see [Inline notes](#inline-note-formatting) for notes on a single line):
+In the markdown file, you must format your 'block' notes as follows (see [[Inline notes]] for notes on a single line):
 <pre>
 START
 {Note Type}

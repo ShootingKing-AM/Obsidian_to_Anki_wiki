@@ -33,7 +33,7 @@ DELETE
 &lt;!--ID: 129414201900--&gt;  
 </pre>
 
-Note that if you manually delete a note in Anki, **you must remove the ID line from the text file**. Otherwise, the script will throw an error.
+Note that if you manually delete a note in Anki, you should remove the ID line from Obsidian/the file too. The script will print a message if a note is identified with an ID that doesn't exist in Anki.
 
 ## Conflicts?
 Try to make sure your regex matches don't overlap with each other. The script is designed, however, to not recognise a match inside another match (for different note types).

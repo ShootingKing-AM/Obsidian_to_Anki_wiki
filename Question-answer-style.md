@@ -1,3 +1,4 @@
+# Usage
 **[[Regex]] line:** `^Q: ((?:.+\n)*)\n*A: (.+(?:\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)`
 
 **Example usage:**
@@ -21,6 +22,13 @@ A: No, and preceding whitespace will be ignored.
 Q: How is this possible?
 A: The 'magic' of regular expressions!
 </pre>
+## Obsidian Plugin users
+3. In the plugin settings, paste the Regex line into the 'Custom Regexps' field associated with 'Basic'
+4. Ensure that the 'Regex' option is checked
+5. Click the Anki icon on the ribbon to run the plugin
+
+
+## Python Script users
 3. Run the script, and check 'Config' to open up the config file:  
 ![GUI](Images/GUI_config.png)
 4. Navigate to the "Custom Regexps" section
@@ -35,6 +43,8 @@ Basic = ^Q: ((?:[^\n][\n]?)+)\n+A: ((?:[^\n][\n]?)+)
 6. Save the config file
 7. Run the script on the file, with 'Regex' checked:  
 ![GUI](Images/GUI_regex.png)
+
+## All users
 8. You should see these cards in Anki:  
 ![question_1](Images/Question_1.png)  
 ![question_2](Images/Question_2.png)  

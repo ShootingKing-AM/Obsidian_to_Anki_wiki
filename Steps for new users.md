@@ -15,3 +15,5 @@ If you are a **new user**, these steps are recommended:
  * [[Updating existing notes]]
  * [[Data file]]
 4. You should be good to go simply running the script/plugin with the '[[Regex]]' option checked.
+
+Note that it is highly recommended to use the Obsidian plugin if the user wants to use Obsidian_to_Anki with Obsidian.

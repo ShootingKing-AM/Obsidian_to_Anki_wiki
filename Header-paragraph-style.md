@@ -1,6 +1,6 @@
+# Usage
 **[[Regex]] line:** `^#+(.+)\n*((?:\n(?:^[^#].{0,2}$|^[^#].{3}(?<!<!--).*))+)`
 
-**Example usage:**
 1. Create a file called `test.md`
 2. Paste the following contents into the file:
 
@@ -20,6 +20,12 @@ It'll even
 Span over
 Multiple lines, and ignore preceding whitespace
 </pre>
+## Obsidian Plugin users
+3. In the plugin settings, paste the Regex line into the 'Custom Regexps' field associated with 'Basic'
+4. Ensure that the 'Regex' option is checked
+5. Click the Anki icon on the ribbon to run the plugin
+
+## Python script users
 3. Run the script, and check 'Config' to open up the config file:  
 ![GUI](Images/GUI_config.png)
 4. Navigate to the "Custom Regexps" section
@@ -34,6 +40,8 @@ Basic = ^#+(.+)\n+((?:[^\n#][\n]?)+)
 6. Save the config file
 7. Run the script on the file, with 'Regex' checked:  
 ![GUI](Images/GUI_regex.png)
+
+## All users
 8. You should see these cards in Anki:  
 ![header_1](Images/Header_1.png)  
 ![header_2](Images/Header_2.png)  

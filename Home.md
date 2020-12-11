@@ -24,8 +24,8 @@ You may also be interested in the [[History of script development]].
 * **[[Inline notes]]** - Shorter syntax for typing out notes on a single line.
 * **[[Cloze formatting]]** - A more compact syntax to do Cloze text.
 * **[[Frozen Fields]]**
-* **[[Skipping over previously scanned and unchanged files]]** - should be useful for large vaults!
-* **[[Obsidian Integration]]** - Currently, this only includes a link to the file that made the flashcard, appended to the first field of your card.
+* **Skipping over previously scanned and unchanged files** - should be useful for large vaults! See [[Data file]].
+* **[[Obsidian Integration]]**
 * **[[Regex]]** - Using **regular expressions**, add custom syntax to generate **notes that make sense for you.**. Note that **all custom syntax is off by default**, and must be programmed into the script via the config file - see [[Regex]] for instructions.
 
 By default, the script adds to the current profile in Anki - you need to switch profiles in Anki to add to another profile.
