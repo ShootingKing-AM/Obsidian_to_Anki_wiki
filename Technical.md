@@ -19,3 +19,7 @@ On Windows, check out [Task Scheduler](https://www.windowscentral.com/how-create
 On macOS/Linux, check out Corey Schafer's excellent tutorial on [cron](https://www.youtube.com/watch?v=QZJ1drMQz1A).
 
 As an example, you could schedule the script to run recursively over your top-level notes folder, at midnight every day.
+
+## Obsidian plugin
+
+As of v3.2.0, the plugin offers inbuilt scheduling! However, this only works when Obsidian is running.
