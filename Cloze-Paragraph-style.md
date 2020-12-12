@@ -37,3 +37,9 @@ to
 9. You should see these cards in Anki:  
 ![Cloze 1](Images/Cloze_1.png)  
 ![Cloze 2](Images/Cloze_2.png)
+
+### Highlight-cloze style (Obsidian Plugin only)
+
+**Regex line**: `((?:.+\n)*(?:.*==.*)(?:\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)`
+
+You can also use markdown highlights instead of curly braces in order to indicate cloze deletions - just use the above style, and also enable 'CurlyCloze - Highlights to Clozes'!

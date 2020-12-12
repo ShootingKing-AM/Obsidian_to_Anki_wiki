@@ -15,6 +15,7 @@ The above styles are but a few examples of the endless possible styles you can m
 If you want to make your own style, however, you should know these things:
 * The script automatically compiles the regular expression with a 'multiline' flag, so you can use the `^` character to signal the beginning of a line
 * You need to have as many capture groups in your regexp as there are fields in the note type - the 1st capture group becomes the 1st field, the 2nd becomes the 2nd field etc
+* If making a 'paragraph' regex, consider using this group to match lines at the end - `(?:^.{1,3}$|^.{4}(?<!<!--).*))`. It ensures that you don't accidentally match the `<!--` at the start of an ID comment!
 
 If you'd like for your style to be added to this page, make a style-request issue and I'll consider it. 
 
