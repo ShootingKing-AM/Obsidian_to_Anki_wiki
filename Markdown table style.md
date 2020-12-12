@@ -44,5 +44,5 @@ Basic = \|([^\n|]+)\|\n\|(?:[^\n|]+)\|\n\|([^\n|]+)\|\n?
 
 ## All users
 8. You should see these cards in Anki:  
-![Table 1](/Images/Table_1.png)  
-![Table 2](/Images/Table_2.png)
+![Table 1](Images/Table_1.png)  
+![Table 2](Images/Table_2.png)
