@@ -35,5 +35,5 @@ to
 
 ## All users
 9. You should see these cards in Anki:  
-![Cloze 1](/Images/Cloze_1.png)  
-![Cloze 2](/Images/Cloze_2.png)
+![Cloze 1](Images/Cloze_1.png)  
+![Cloze 2](Images/Cloze_2.png)
