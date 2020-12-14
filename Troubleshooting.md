@@ -1,3 +1,9 @@
+# Obsidian Plugin Users
+
+If you're finding e.g. IDs not being added on some cards, check the console (ctrl-shift-i or cmd-shift-i to open) to see if the script logged any errors.
+
+# Python Script Users
+
 If the script itself is not able to run, try running `python3 {PATH_TO_SCRIPT}`.
 
 If you are unable to get `pip` to run, see this [user guide](https://pip.pypa.io/en/stable/user_guide/).
