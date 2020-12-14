@@ -6,7 +6,6 @@ Section for setting default parameters of the script:
 * Deck - the default deck every card produced by this script goes into. Overridden by TARGET DECK (see [syntax](#syntax))
 * CurlyCloze - explained in [[Cloze-formatting]]
 * GUI - allows you to enable/disable the GUI of the script. See [[Command line usage]]
-* Regex - Toggle regex mode to be on or off by default.
 * ID Comments - Toggle whether or not card IDs are wrapped in a HTML comment. Wrapping IDs in a HTML comment makes them invisible on 'preview' mode, which can make notes look cleaner.
 * Add file link: Whether you want to append a link to the associated obsidian file.
 
@@ -25,3 +24,9 @@ Note that START, END, TARGET DECK, FILE TAGS and DELETE all require an **exact m
 * Target Deck Line - The string that signals "the line beneath me is the name of the target deck". Defaults to TARGET DECK. Can also use as TARGET DECK: {Deck Name} - see [[Deck-formatting]]
 * File Tags Line - The string that signals "the line beneath me is the set of tags that should be added to all notes from this file". Defaults to FILE TAGS. Can also use as FILE TAGS: {Tag List} - see [[Tag-formatting]]
 * Delete Note Line - The string that signals "the line beneath me is an id string for a note that should be deleted." Defaults to DELETE.
+
+# Custom regexp section
+
+See [[Regex]] for an explanation of this.
+
+# Folder settings (Obsidian Plugin only)
