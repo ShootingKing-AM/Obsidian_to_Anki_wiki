@@ -1,5 +1,5 @@
 # Usage
-**[[Regex]] line:** `^#+(.+)\n*((?:\n(?:^[^#].{0,2}$|^[^#].{3}(?<!<!--).*))+)`
+**[[Regex]] line:** `^#+(.+)\n*((?:\n(?:^[^\n#].{0,2}$|^[^\n#].{3}(?<!<!--).*))+)`
 
 1. Create a file called `test.md`
 2. Paste the following contents into the file:
