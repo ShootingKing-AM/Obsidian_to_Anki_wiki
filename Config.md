@@ -30,3 +30,4 @@ Note that START, END, TARGET DECK, FILE TAGS and DELETE all require an **exact m
 See [[Regex]] for an explanation of this.
 
 # Folder settings (Obsidian Plugin only)
+See [[Folder settings]] for more info.

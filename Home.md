@@ -13,8 +13,8 @@ You may also be interested in the [[History of script development]].
 # Current features
 * **[[Note formatting]] with custom note types** - You're not limited to the 6 built-in note types of Anki.
 * **[[Updating existing notes]]** - When running the script on a file again, it'll automatically update existing notes in Anki, preserving scheduling information.
-* **[[Tag formatting]]**.
-* **[[Deck formatting]]** on a *per-file* basis.
+* **[[Tag formatting]]**, on a *per-note* and *per-file* basis. And for Obsidian plugin users, on a *per-folder* basis too!
+* **[[Deck formatting]]** on a *per-file* basis. And for Obsidian plugin users, on a *per-folder* basis too!
 * **[[Markdown formatting]]**.
 * **[[Math formatting]]**.
 * **[[Image formatting]]**.

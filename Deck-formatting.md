@@ -25,3 +25,7 @@ TARGET DECK: Mathematics
 </pre>
 
 You may place more than one target deck in the same file, but only the first instance will be read and used.
+
+# Obsidian plugin only
+
+See [[Folder settings]] for how to do this on a folder-level

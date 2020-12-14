@@ -38,7 +38,7 @@ Basic =
 </pre>
 to  
 <pre>
-Basic = ^Q: ((?:[^\n][\n]?)+)\n+A: ((?:[^\n][\n]?)+)
+Basic = ^Q: ((?:.+\n)*)\n*A: (.+(?:\n(?:^.{1,3}$|^.{4}(?&lt;!&lt;!--).*))*)
 </pre>
 6. Save the config file
 7. Run the script on the file, with 'Regex' checked:  

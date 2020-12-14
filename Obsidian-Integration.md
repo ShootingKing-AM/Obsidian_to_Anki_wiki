@@ -17,11 +17,15 @@ The plugin fully supports both normal markdown links and Obsidian style wikilink
 
 The plugin supports obsidian-style image and audio embeds.
 
+## Tag support
+
+The switch "Add Obsidian tags" tells the plugin to interpret #tags as tags for Anki.
+
 ## Context
 
 Using the plugin settings, you can choose which field to append 'context' to! This is the path of the file the note was generated from, as well as the position of the note in the heading tree (if any) of the file.
 
-For example, if the file was called "test.md", and we had a note in this position:
+For example, if the file was called "test.md", in the folder "Math/Functions", and we had a note in this position:
 
 <pre>
 
@@ -39,4 +43,8 @@ END
 
 </pre>
 
-Then, the context for the note would be the string "test.md > Overall point > Subheading 2"
+Then, the context for the note would be the string "Math/Functions/test.md > Overall point > Subheading 2"
+
+##  Folder settings
+
+See [[Folder settings]] for a detailed explanation of this.
