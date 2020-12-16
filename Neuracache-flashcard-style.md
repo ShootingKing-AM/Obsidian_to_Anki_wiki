@@ -1,6 +1,6 @@
 # Usage
 
-**[[Regex]] line:** `((?:[^\n][\n]?)+) #flashcard\n*((?:\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)`
+**[[Regex]] line:** `((?:[^\n][\n]?)+) #flashcard ?\n*((?:\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)`
 
 1. Create a file called `test.md`
 2. Paste the following contents into the file:
@@ -36,7 +36,7 @@ Basic =
 </pre>
 to  
 <pre>
-Basic = ((?:[^\n][\n]?)+) #flashcard\n*((?:\n(?:^.{1,3}$|^.{4}(?&lt;!&lt;!--).*))+)
+Basic = ((?:[^\n][\n]?)+) #flashcard ?\n*((?:\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)
 </pre>
 6. Save the config file
 7. Run the script on the file, with 'Regex' checked:  
