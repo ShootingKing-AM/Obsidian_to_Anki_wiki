@@ -32,7 +32,7 @@ Basic =
 </pre>
 to  
 <pre>
-Basic = ((?:[^\n][\n]?)+\n)-{3,}((?:\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)
+Basic = ((?:[^\n][\n]?)+\n)-{3,}((?:\n(?:^.{1,3}$|^.{4}(?&lt;!&lt;!--).*))*)
 </pre>
 6. Save the config file
 7. Run the script on the file, with 'Regex' checked:  
