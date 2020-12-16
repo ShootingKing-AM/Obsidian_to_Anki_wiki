@@ -40,5 +40,5 @@ Basic = ((?:[^\n][\n]?)+\n)-{3,}\n((?:[^\n][\n]?)+)
 
 ## All users
 8. You should see these cards in Anki:  
-![ruled_1](/Images/Ruled_1.png)  
-![ruled_2](/Images/Ruled_2.png)
+![ruled_1](Images/Ruled_1.png)  
+![ruled_2](Images/Ruled_2.png)
